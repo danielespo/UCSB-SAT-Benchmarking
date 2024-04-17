@@ -1,0 +1,6 @@
+/* 
+WalkSAT for FPGA based on K. Kanazawa and T. Maruyama Algorithm
+Key factors: enable multithreading and use dynamic bitstream updates
+For now: 
+
+*/
